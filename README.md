@@ -1,7 +1,5 @@
 Web Visualization Dashboard (Latitude)
 
-Create a new repository for this project called Web-Design-Challenge. Do not add this homework to an existing repository.
-
 Latitude - Latitude Analysis Dashboard with Attitude
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
 
